@@ -1,3 +1,2 @@
 # Spirit-level
-Programming API assignment
-I'm not writing about myself in this tutorial.
+Programming API assignment. We are making a spirit level calculator for the mobile phone.
